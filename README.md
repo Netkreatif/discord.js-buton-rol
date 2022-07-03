@@ -28,7 +28,7 @@ npm install -g nodemon
 ![gif](https://img.turker.live/u/t5vnd.gif)<br>
 **5)** Açılan konsolu değiştirelim.<br>
 ![img](https://img.turker.live/u/oys07.png)![img](https://img.turker.live/u/1g0r3.png)<br>
-**6)** `nodemon` yazıp gönderelim.<br>
+**6)** `npm i` yazalım sonra da `nodemon` yazıp gönderelim.<br>
 ![img](https://img.turker.live/u/ru2bx.png)
 ## Tada 🎉! Artık botu kullanabiliriz!
 # 🖼 Resimler
