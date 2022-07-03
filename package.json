@@ -1,0 +1,15 @@
+{
+  "name": "netkreatif-butonrol",
+  "version": "1.0.0",
+  "description": "Netkreatif Bilişim Teknolojileri",
+  "main": "netkreatif.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Türker",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "nodemon": "^2.0.18"
+  }
+}
