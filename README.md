@@ -1,3 +1,5 @@
+# KODDA EKSİK KODLAR VARDIR. YAKIN ZAMANDA DÜZELTİLECEK
+
 # 👋 Herkese Merhaba!
 > Discord.js v13 ile kodlanmış butonlu rol alma botu nasıl kurulur buradan öğrenebilirsiniz.
 
